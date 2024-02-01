@@ -1,2 +1,0 @@
-# HotmailChecker
-HotmailChecker VIP
